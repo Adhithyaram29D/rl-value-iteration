@@ -45,9 +45,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/59a2223a-4e7a-4a1c-890a-094da9832cce)
-![image](https://github.com/user-attachments/assets/1572c263-1961-4d27-9181-0dd1cf6ea430)
-![image](https://github.com/user-attachments/assets/a6d95c28-4905-460f-8095-37cf80a6504c)
+![image](https://github.com/user-attachments/assets/2afa7814-30b3-40e2-9902-9cc2a37298bf)
+![image](https://github.com/user-attachments/assets/53d7e7c5-bdae-46dd-9cbd-9be4ac31bf91)
+![image](https://github.com/user-attachments/assets/1a1549bb-8fd4-4e1b-91f2-b8478249be26)
 
 
 ## RESULT:
